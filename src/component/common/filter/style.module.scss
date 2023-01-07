@@ -1,0 +1,11 @@
+.filterContent {
+  padding: 16px;
+  height: 32px;
+  box-sizing: content-box;
+  .filterLeft {
+    float: left;
+  }
+  .filterRight {
+    float: right;
+  }
+}

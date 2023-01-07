@@ -1,0 +1,15 @@
+.sider {
+    background: #333;
+    height: 100vh;
+    color: #fff;
+}
+.header {
+    background: #666;
+}
+.layout {
+   flex: 1;
+   min-width: 1024px;
+}
+.content {
+    background: #eee;
+}

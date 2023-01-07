@@ -1,0 +1,26 @@
+.sider {
+    background: #333;
+    height: 100vh;
+    color: #fff;
+}
+
+.header {
+    background: #fff;
+    height: 50px;
+    line-height: 50px;
+}
+
+.layout {
+    min-width: 1024px;
+}
+
+.content {
+    background: #eee;
+}
+
+.crumb {
+    display: inline;
+    float: left;
+    height: 50px;
+    line-height: 50px !important;
+}

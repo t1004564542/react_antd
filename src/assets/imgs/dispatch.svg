@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="98px" viewBox="0 0 96 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="62.1500651%" id="radialGradient-1">
+            <stop stop-color="#00D4E1" offset="0%"></stop>
+            <stop stop-color="#00B4E1" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="策略配置-下发" transform="translate(-450.000000, -299.000000)">
+            <g id="编组-12" transform="translate(420.000000, 220.000000)">
+                <g id="编组-8" transform="translate(30.000000, 79.000000)">
+                    <circle id="椭圆形" stroke="" cx="48" cy="50" r="47.5"></circle>
+                    <circle id="椭圆形" fill="#00B4E1" cx="49.5" cy="2.5" r="2.5"></circle>
+                    <circle id="椭圆形" fill="#FFFFFF" cx="49.5" cy="2.5" r="1.5"></circle>
+                    <circle id="椭圆形" fill="#00B4E1" opacity="0.4" cx="48" cy="50" r="41"></circle>
+                    <circle id="椭圆形" fill="url(#radialGradient-1)" cx="48" cy="50" r="36"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

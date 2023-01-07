@@ -1,0 +1,135 @@
+{
+  "id": "3122488",
+  "name": "双域运营",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28239925",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "28020702",
+      "name": "收起菜单",
+      "font_class": "shouqicaidan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "28020703",
+      "name": "展开菜单",
+      "font_class": "zhankaicaidan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "28020159",
+      "name": "日志管理",
+      "font_class": "rizhiguanli1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "28020160",
+      "name": "配置包下载",
+      "font_class": "peizhibaoxiazai1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "28020161",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "28020162",
+      "name": "项目管理",
+      "font_class": "xiangmuguanli1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "28020163",
+      "name": "授权码管理",
+      "font_class": "shouquanmaguanli1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "28020164",
+      "name": "系统管理",
+      "font_class": "xitongguanli1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11556707",
+      "name": "数据管理备份",
+      "font_class": "shujuguanlibeifen",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1010121",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1010162",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5429639",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "26396344",
+      "name": "日志管理",
+      "font_class": "rizhiguanli",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "27022329",
+      "name": "项目管理",
+      "font_class": "xiangmuguanli",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "27022459",
+      "name": "logo",
+      "font_class": "logo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "27022462",
+      "name": "配置包下载",
+      "font_class": "peizhibaoxiazai",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "27022472",
+      "name": "授权码管理",
+      "font_class": "shouquanmaguanli",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

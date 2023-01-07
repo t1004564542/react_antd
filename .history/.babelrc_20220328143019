@@ -1,0 +1,13 @@
+{
+  // "test": /\.(js|jsx)$/,
+  // "include": paths.appSrc,
+  // "loader": require.resolve('babel-loader'),
+
+  "plugins": [
+    ["import", {
+      "libraryName": "antd",
+      "libraryDirectory": "lib",
+      "style": "css"
+    }]
+  ]
+}

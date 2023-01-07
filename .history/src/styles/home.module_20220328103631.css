@@ -1,0 +1,12 @@
+.sider {
+    background: #333;
+    height: 100vh;
+    color: #fff;
+}
+.header {
+    background: #666;
+}
+
+.content {
+    background: #eee;
+}

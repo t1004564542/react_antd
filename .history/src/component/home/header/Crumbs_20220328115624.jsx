@@ -1,0 +1,27 @@
+import React from 'react'
+import { Breadcrumb } from 'antd';
+console.log(Breadcrumb)
+
+// class Crumbs extends React.Component{
+//     render() {
+//         return (
+//             <Breadcrumb>
+//                 <Breadcrumb.Item>Home</Breadcrumb.Item>
+//                 <Breadcrumb.Item>
+//                     <a href="">Application Center</a>
+//                 </Breadcrumb.Item>
+//                 <Breadcrumb.Item>
+//                     <a href="">Application List</a>
+//                 </Breadcrumb.Item>
+//                 <Breadcrumb.Item>An Application</Breadcrumb.Item>
+//             </Breadcrumb>
+//         )
+//     }
+// }
+
+function Crumbs() {
+    return (
+        <Breadcrumb></Breadcrumb>
+    )
+}
+export default Crumbs
